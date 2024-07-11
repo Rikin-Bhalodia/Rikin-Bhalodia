@@ -23,18 +23,6 @@ new Person({
 D:\Rikin-Bhalodia> node index.js
 Hi, my name is Rikin Bhalodia, I'm a Full Stack Developer from India.
 ```
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-</div>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
