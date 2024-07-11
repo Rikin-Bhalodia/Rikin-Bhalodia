@@ -40,8 +40,8 @@ Hi, my name is Rikin Bhalodia, I'm a Full Stack Developer from India.
 <h3 align="center">🔥Streak Stats🔥</h3>
 
 <!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Rikin-Bhalodia" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rikin-Bhalodia" alt="GitHub Streak" /></a>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rikin-Bhalodia" alt="GitHub Streak" /></a></p>
+
 
 <div align="center">
     Made with ❤️ by <a href="https://github.com/Rikin-Bhalodia" target="_blank">Rikin Bhalodia</a>
