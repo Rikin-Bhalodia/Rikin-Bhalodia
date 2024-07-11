@@ -24,18 +24,8 @@ D:\Rikin-Bhalodia> node index.js
 Hi, my name is Rikin Bhalodia, I'm a Full Stack Developer from India.
 ```
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Deri-Kurniawan) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
-
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
-
-<h3 align="center">✨My Portfolio Website✨</h3>
-
-<a href="https://www.deri.my.id" alt="Deri Kurniawan Super Portfolio">
-<img src="https://files.edgestore.dev/pm4x4vgchfn4kpfz/publicFiles/_public/showcase-super-portfolio-1714565100312.webp" align="right">
-</a>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
