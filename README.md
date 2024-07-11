@@ -42,11 +42,6 @@ Hi, my name is Rikin Bhalodia, I'm a Full Stack Developer from India.
 <!-- custom streak stats: https://git.io/streak-stats -->
 <p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Rikin-Bhalodia" /></p>
 
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
 <div align="center">
-    Made with ❤️ by <a href="https://deri.my.id" target="_blank">Deri Kurniawan</a>
+    Made with ❤️ by <a href="https://github.com/Rikin-Bhalodia" target="_blank">Rikin Bhalodia</a>
 </div>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
