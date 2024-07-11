@@ -32,7 +32,7 @@ Hi, my name is Rikin Bhalodia, I'm a Full Stack Developer from India.
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwindcss,nodejs,express,mysql,git,vscode,vercel,vite,cloudflare,prisma&perline=10" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,postgres,tailwindcss,nodejs,express,mysql,git,vscode,vercel,vite,cloudflare,prisma&perline=16" />
 </a>
 </p>
 
