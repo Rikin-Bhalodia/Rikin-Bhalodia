@@ -32,12 +32,10 @@ Hi, my name is Rikin Bhalodia, I'm a Full Stack Developer from India.
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwindcss,nodejs,express,mysql,git,vscode,vercel,vite,cloudflare,prisma&perline=10" />
 </a>
 </p>
 
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
 
 <h3 align="center">🔥Streak Stats🔥</h3>
 
