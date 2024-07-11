@@ -12,17 +12,16 @@
 import { Person } from "indonesia";
 
 new Person({
-  name: "Deri Kurniawan",
+  name: "Rikin Bhalodia",
   title: "Full Stack Developer",
-  email: "deri.netuchi@gmail.com",
-  website: "https://deri.my.id",
-  junior: !!!false,
+  email: "rikinbhaldia9504.com",
+  Senior: !!!false,
 }).introduce();
 ```
 
 ```cmd
-D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+D:\Rikin-Bhalodia> node index.js
+Hi, my name is Rikin Bhalodia, I'm a Full Stack Developer from India.
 ```
 
 <div align="center">
