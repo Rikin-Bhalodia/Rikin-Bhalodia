@@ -14,7 +14,7 @@ import { Person } from "indonesia";
 new Person({
   name: "Rikin Bhalodia",
   title: "Full Stack Developer",
-  email: "rikinbhaldia9504.com",
+  email: "rikinbhaldia9504@gmail.com",
   Senior: !!!false,
 }).introduce();
 ```
@@ -29,40 +29,6 @@ Hi, my name is Rikin Bhalodia, I'm a Full Stack Developer from India.
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                603 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-🌆 Daytime                2411 commits        ███████████░░░░░░░░░░░░░░   43.13 % 
-🌃 Evening                1896 commits        ████████░░░░░░░░░░░░░░░░░   33.92 % 
-🌙 Night                  680 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-TypeScript               3 hrs 1 min         ████████████████░░░░░░░░░   65.43 % 
-CSS                      1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-TSConfig                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 36 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  4 hrs 36 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 10-07-2024 17:18:53 UTC
-<!--END_SECTION:waka-->
 
 </div>
 
